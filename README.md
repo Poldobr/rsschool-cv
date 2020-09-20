@@ -1,1 +1,1 @@
-# https://github.com/Poldobr/rsschool-cv
+# https://github.com/Poldobr/rsschool-cv/cv
